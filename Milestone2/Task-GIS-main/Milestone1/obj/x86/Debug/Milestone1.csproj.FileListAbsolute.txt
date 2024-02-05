@@ -1,0 +1,18 @@
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\bin\Debug\Milestone1.exe
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\bin\Debug\Milestone1.pdb
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\Milestone1.Form1.resources
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\Milestone1.Properties.Resources.resources
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\Milestone1.exe
+c:\users\gis\documents\visual studio 2010\Projects\Milestone1\Milestone1\obj\x86\Debug\Milestone1.pdb
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\bin\Debug\Milestone1.exe
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\bin\Debug\Milestone1.pdb
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\Milestone1.Form1.resources
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\Milestone1.Properties.Resources.resources
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\Milestone1.exe
+C:\Users\GIS\Desktop\Task-GIS-main\Milestone1\obj\x86\Debug\Milestone1.pdb

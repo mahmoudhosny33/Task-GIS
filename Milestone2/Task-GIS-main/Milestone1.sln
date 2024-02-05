@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milestone1", "Milestone1\Milestone1.csproj", "{17AF62B4-8002-4684-8649-A2E95D397AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AF62B4-8002-4684-8649-A2E95D397AD9}.Debug|x86.ActiveCfg = Debug|x86
+		{17AF62B4-8002-4684-8649-A2E95D397AD9}.Debug|x86.Build.0 = Debug|x86
+		{17AF62B4-8002-4684-8649-A2E95D397AD9}.Release|x86.ActiveCfg = Release|x86
+		{17AF62B4-8002-4684-8649-A2E95D397AD9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
